@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NAVAHO\\Desktop\\Genel\\github-workplace\\HotelBookingAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC7F8D5-C1E6-4835-8838-2C1037034549}|HotelBookingAPI.csproj|c:\\users\\navaho\\desktop\\genel\\github-workplace\\hotelbookingapi\\controllers\\hotelbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC7F8D5-C1E6-4835-8838-2C1037034549}|HotelBookingAPI.csproj|solutionrelative:controllers\\hotelbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelBookingController.cs",
+              "DocumentMoniker": "C:\\Users\\NAVAHO\\Desktop\\Genel\\github-workplace\\HotelBookingAPI\\Controllers\\HotelBookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HotelBookingController.cs",
+              "ToolTip": "C:\\Users\\NAVAHO\\Desktop\\Genel\\github-workplace\\HotelBookingAPI\\Controllers\\HotelBookingController.cs",
+              "RelativeToolTip": "Controllers\\HotelBookingController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:37:57.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
